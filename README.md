@@ -1,4 +1,4 @@
-# Ecommerce UI automation project for Kevin Roe
+# Starter Selenium Framework - Ruby
 
 This project requires Ruby version 2.7.2 and the ruby gem `bundler`. You can use either RVM or ASDF to install Ruby 2.7.2 as it supports both (due to the both `.tool-versions` and `.ruby-version` files being present).
 
